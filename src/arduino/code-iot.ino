@@ -10,13 +10,13 @@
 #define RELAY_PIN 21  // GPIO23 pour le relais
 /*
 // Configuration WiFi
-const char* ssid     = "GIA";
-const char* password = "gi-iads-pw";
+const char* ssid     = "Wifi-ssid";
+const char* password = "Your-Wifi-Pass";
 */
 /*
 // Configuration WiFi
 const char* ssid     = "inwi Home 4G E2F379";
-const char* password = "46389619";
+const char* password = "wifi-pass";
 // Serveur
 const char* serverUrl = "http://192.168.0.143/api.php";
 ;
