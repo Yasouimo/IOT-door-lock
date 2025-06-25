@@ -25,12 +25,12 @@ This project focuses on the design and implementation of a secure IoT-based acce
 5. **Logging**: All access attempts are logged in the MySQL database.
 
 ### Hardware Wiring Diagram
-![Hardware Wiring Diagram](docs/hardware_diagram.png)
+![Hardware Wiring Diagram](docs/project_assembly.png)
 
 This diagram illustrates the connections between the ESP32, RC522 RFID module, relay, and electric lock. It also includes the power supply setup for the system.
 
 ### System Workflow Diagram
-![System Workflow Diagram](docs/system_workflow.png)
+![System Workflow Diagram](docs/project_architecture.png)
 
 This diagram provides an overview of the system's workflow, showing how the ESP32 communicates with the PHP server and MySQL database to manage access control.
 
