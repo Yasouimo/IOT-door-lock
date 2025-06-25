@@ -1,4 +1,4 @@
-# Automated Access Control System via ESP32 and RFID
+# Automated IoT Access Control System
 
 ## Project Overview
 This project focuses on the design and implementation of a secure IoT-based access control system using ESP32, RC522 RFID module, and an electric lock. The system integrates hardware components with a PHP/MySQL web interface for managing RFID badges and monitoring access logs. The project was developed as part of the "Industrie 4.0 et Usine Future" course from April 2025 to June 2025.
@@ -23,6 +23,16 @@ This project focuses on the design and implementation of a secure IoT-based acce
 3. **Access Decision**: The server checks the UID against the database and returns GRANTED or DENIED.
 4. **Relay Control**: If access is granted, the relay activates the electric lock.
 5. **Logging**: All access attempts are logged in the MySQL database.
+
+### Hardware Wiring Diagram
+![Hardware Wiring Diagram](docs/hardware_diagram.png)
+
+This diagram illustrates the connections between the ESP32, RC522 RFID module, relay, and electric lock. It also includes the power supply setup for the system.
+
+### System Workflow Diagram
+![System Workflow Diagram](docs/system_workflow.png)
+
+This diagram provides an overview of the system's workflow, showing how the ESP32 communicates with the PHP server and MySQL database to manage access control.
 
 ## Web Interface
 ### Login Page
