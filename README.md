@@ -50,16 +50,6 @@ The `code-iot.ino` file contains the logic for:
 - `loop()`: Continuously scans for RFID badges and handles server communication.
 - `activateRelay(duration)`: Activates the relay for the given duration.
 
-## Team Members
-- Nisrine Drief
-- Soufia Hjirt
-- Amal Issoummour
-- Alae Boutghart
-- Wissal Aoussar
-- Kaoutar Elrhazi
-- Yahya Bellmir
-- Chouaib Chegdati
-- Kawter Hattaki
 
 ## How to Run the Project
 1. **Hardware Setup**:
