@@ -1,4 +1,4 @@
-# Automated IoT Access Control System  
+# Automated IoT Access Control System   
 
 ## Project Overview   
 This project focuses on the design and implementation of a secure IoT-based access control system using ESP32, RC522 RFID module, and an electric lock. The system integrates hardware components with a PHP/MySQL web interface for managing RFID badges and monitoring access logs. The project was developed as part of the "Industrie 4.0 et Usine Future" course from April 2025 to June 2025.
