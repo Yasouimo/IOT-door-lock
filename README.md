@@ -3,7 +3,7 @@
 ## Project Overview  
 This project focuses on the design and implementation of a secure IoT-based access control system using ESP32, RC522 RFID module, and an electric lock. The system integrates hardware components with a PHP/MySQL web interface for managing RFID badges and monitoring access logs. The project was developed as part of the "Industrie 4.0 et Usine Future" course from April 2025 to June 2025.
 
-## Features
+## Features 
 - **Secure Access Control**: RFID-based authentication using ESP32 and RC522 module.
 - **Web Interface**: PHP/MySQL-based dashboard for managing badges and viewing access logs.
 - **Hardware Integration**: Relay control for electric lock and functional testing in a local XAMPP environment.
