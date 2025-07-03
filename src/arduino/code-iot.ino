@@ -15,7 +15,7 @@ const char* password = "Your-Wifi-Pass";
 */
 /*
 // Configuration WiFi
-const char* ssid     = "inwi Home 4G E2F379";
+const char* ssid     = "Wifi-ssid";
 const char* password = "wifi-pass";
 // Serveur
 const char* serverUrl = "http://192.168.0.143/api.php";
