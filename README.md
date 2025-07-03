@@ -8,7 +8,7 @@ This project focuses on the design and implementation of a secure IoT-based acce
 - **Web Interface**: PHP/MySQL-based dashboard for managing badges and viewing access logs.
 - **Hardware Integration**: Relay control for electric lock and functional testing in a local XAMPP environment.
 - **Real-Time Logging**: Logs access attempts and their statuses (GRANTED/DENIED).
-
+ 
 ## Materials Used
 - **ESP32**: Microcontroller for WiFi connectivity and RFID processing.
 - **RC522 RFID Module**: For reading RFID badges.
